@@ -1,0 +1,15 @@
+CODEALPHA PYTHON INTERNSHIP — TASK 2
+Project: Stock Portfolio Tracker
+
+[ ] Run `python stock_portfolio.py`.
+[ ] Test at least two supported stock symbols.
+[ ] Test an unsupported symbol.
+[ ] Test invalid and zero quantities.
+[ ] Type DONE and verify the total.
+[ ] Confirm `portfolio_summary.csv` is created and correct.
+[ ] Create a public repository named `CodeAlpha_StockPortfolioTracker`.
+[ ] Upload stock_portfolio.py, README.md, VIDEO_SCRIPT.txt, LINKEDIN_POST.txt, and this checklist.
+[ ] Record and post a project explanation video with the GitHub link.
+[ ] Submit using the official CodeAlpha submission form.
+
+Do not describe this project as using live stock prices. The prices are hardcoded sample values.

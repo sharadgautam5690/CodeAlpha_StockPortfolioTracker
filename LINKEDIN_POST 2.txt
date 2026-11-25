@@ -1,0 +1,16 @@
+I have completed Task 2 — Stock Portfolio Tracker — as part of my Python Programming Internship at CodeAlpha.
+
+This Python console application lets users enter stock symbols and quantities, calculates each holding's value using predefined sample prices, displays the total portfolio investment, and saves the summary to a CSV file.
+
+Concepts practised:
+• Dictionaries and lists
+• Loops and conditional statements
+• Functions and input validation
+• Basic calculations
+• CSV file handling
+
+GitHub repository: [PASTE YOUR REPOSITORY LINK]
+
+Note: Prices are fixed sample values, not live market data.
+
+#CodeAlpha #Python #PythonProgramming #Internship #StockPortfolioTracker

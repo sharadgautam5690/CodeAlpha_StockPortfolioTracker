@@ -1,0 +1,13 @@
+VIDEO EXPLANATION SCRIPT (60–90 seconds)
+
+Hello everyone. This is my Stock Portfolio Tracker, completed for Task 2 of my Python Programming Internship at CodeAlpha.
+
+The program lets a user enter stock symbols and the number of shares they own. It looks up fixed sample prices in a Python dictionary, calculates each holding's value, and adds them to find the total portfolio investment.
+
+I used dictionaries, lists, functions, loops, conditional statements, input validation, arithmetic, and CSV file handling.
+
+Now I will run the program, enter AAPL with 2 shares and TSLA with 3 shares, type DONE, and show the total and generated CSV file.
+
+These are hardcoded sample prices, not live market prices.
+
+Thank you for watching. GitHub repository: [paste your repository link].
